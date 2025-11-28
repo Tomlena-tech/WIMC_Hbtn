@@ -1,0 +1,13 @@
+:root {
+    --primary: #2563eb;
+    --secondary: #A2E3A2;
+    --dark: #1F2937;
+    --light: #F3F4F6;
+    
+}
+* {
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+
+}
